@@ -47,6 +47,6 @@ Kevin Ng UCI Coding Bootcamp
 ## License
 ISC
 
-## Contact
+## Contact:
 -Github: [KevinNg2](https://github.com/KevinNg2)
 -Email: [kevinng3292@gmail.com](mailto:kevinng3292@gmail.com)
