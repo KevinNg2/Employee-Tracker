@@ -15,6 +15,8 @@
 ## Description 
 This is a command-line app constructed to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
+![demogif](./demo/employee-tracker.gif)
+
 ## Link to the App
 * ['Employee Tracker - Github'](https://github.com/KevinNg2/Employee-Tracker)
 * ['Employee Tracker - Video Walkthrough'](https://drive.google.com/file/d/1jh2z1Q3v7zM1wJ3XQ4eHOgTWVMMN0N-F/view)
@@ -40,7 +42,7 @@ A command line application that allows users to:
 - Update employees managers 
 - View employees by manager
 - Delete departments, roles, and employees
-- View budget by departments
+- View department budgets
 
 ## Credits
 Kevin Ng UCI Coding Bootcamp
@@ -52,4 +54,3 @@ ISC
 -Github: [KevinNg2](https://github.com/KevinNg2)
 
 -Email: [kevinng3292@gmail.com](mailto:kevinng3292@gmail.com)
-
