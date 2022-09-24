@@ -40,6 +40,7 @@ A command line application that allows users to:
 - Update employees managers 
 - View employees by manager
 - Delete departments, roles, and employees
+- View budget by departments
 
 ## Credits
 Kevin Ng UCI Coding Bootcamp
