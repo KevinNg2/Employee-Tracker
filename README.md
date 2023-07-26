@@ -19,7 +19,7 @@ This is a command-line app constructed to manage a company's employee database, 
 
 ## Link to the App
 * ['Employee Tracker - Github'](https://github.com/KevinNg2/Employee-Tracker)
-* ['Employee Tracker - Video Walkthrough'](https://drive.google.com/file/d/1jh2z1Q3v7zM1wJ3XQ4eHOgTWVMMN0N-F/view)
+* ['Employee Tracker - Video Walkthrough'](https://drive.google.com/file/d/1g9YANWUYSLYK4BaVDVaA-9QWXgGuNYae/view)
 
 ## User Story
 ```
